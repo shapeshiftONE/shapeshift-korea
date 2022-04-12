@@ -1,2 +1,3 @@
-# translation-of-subtitles
-translation of subtitles
+# ShapeShift DAO Korea Team Translations
+
+
