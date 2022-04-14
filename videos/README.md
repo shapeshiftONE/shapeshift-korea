@@ -6,7 +6,7 @@
 
 ## Titling
 
-`[Event Title or Subject] Video Title`
+`[Event Title or Subject] Video Title - Speaker/Lecturer`
 
 ## Video README Template (md)
 
