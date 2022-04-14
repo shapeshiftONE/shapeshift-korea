@@ -1,6 +1,6 @@
-모두가 평등한 새로운 조직, "DAO"란 무엇일까요?
+# Josh Forman: DAO Collaboration at ETH Denver 2022
 
-ETH Denver 2022에서 Josh Forman와 함께 DAO에 대해 사례중심으로 배워봐요!
+Josh Forman, former Director of Engineering at ShapeShift contrasts collaboration as a centralized organization with working as a DAO. This talk was presented at ETHDenver 2022.
 
 ## Status Overview
 
