@@ -1,0 +1,32 @@
+Vision:
+We envision a borderless financial system built on open, decentralized protocols.
+
+비전:
+개방적이고 탈중화된 프로토콜 위에 구축된 국경 없는 금융 시스템을 구상합니다.
+
+Mission:
+We shall be the pathway into this borderless financial system; an open-source, multi-chain, self-custody crypto platform enabling billions to achieve financial sovereignty.
+
+미션: 우리는 국경 없는 금융 시스템의 통로가 될 것입니다. 수십억이 금융 주권을 달성할 수 있도록 하는 오픈소스, 멀티체인, 자체 관리 암호 플랫폼 입니다. 
+
+Values:
+Trustworthy - We are upfront and transparent. We are fair and accurate in our dealings with one another and with our customers. We earn trust with time and execution, rather than by expecting it by default.
+
+핵심가치:
+신뢰와 믿음 - 공정함과 투명함을 바탕으로 서로에게, 그리고 고객을 대할때 공정명정대합니다. 셰이프시프트는 여러분의 신뢰를 당연시 하지 않고 시간과 실천을 통해 믿음을 얻기 위해 노력합니다.
+
+Collaborative - We are talented individuals aligning behind unified strategies to build greatness. We support, encourage, and challenge each other. We leverage the force multiplier of teamwork.
+
+협업추구 - 우리는 통일전략으로 최고를 구축하는 인재들이며, 항상 서로를 지지하고 격려하며 함께 도전합니다. 셰이프시프트는 팀워크를 통한, 전체의 성과가 개개인의 합보다 커지는 승수효과를 지향합니다. 
+
+Adaptive - We are a decentralized startup in an experimental new industry straight out of a sci-fi novel. We embrace volatility. We observe, react, endure, and move through every challenge and obstacle brought upon us.
+
+변화수용 - 셰이프시프트는 창조적인 아이디어와 첨단 기술을 바탕으로 한, 마치 공상과학소설에서 막 나온듯한 탈중화된 스타트업입니다. 우리는 변화와 혁신을 수용하고 실행합니다. 항상 관찰하고, 신속하게 반응하며, 인내하고, 어떠한 시험과 장애물 이라도 해쳐나가는 힘이 있습니다. 
+
+Spirited - We are playful and passionate. We engage sincerely with one another and with the world. We pour art, character, and conviction into our products and believe crypto, like speech, is best when borderless.
+
+진취적 - 즐길줄 알고 열정적이며 진심을 다해 서로, 그리고 세상과 소통합니다. 예술, 문화, 신념을 우리의 제품에 담으며
+
+Pioneering - We innovate with digital tools, along the frontier of distributed finance. Casting off from the paternalistic comfort of a permissioned world, we build in the wilds, readying sanctuary from the dark clouds of fiat’s twilight hour. We expect maturity, grit, and stoic resolve.
+
+개척 선도 -  셰이프시프트는 DeFi의 최전선에 앞장서 디지털 도구를 사용하여 혁신합니다. 기존의 허락받은 세상의 가부장적 안락함을 벗어나, 우리는 야생에 건설하고, 법정 화폐의 황혼 시간의 먹구름으로부터 피난처를 준비합니다. 우리는 성숙함, 끈기, 그리고 굳은 결심을 기대합니다.
