@@ -2,11 +2,11 @@
 
 ShapeShift Visionaries Reflect on the DAO After Six Months
 
-### Part One of a Three-Part Series
+### 3부작 시리즈 중 1부작
 
-ShapeShift was the first established corporation to fully transform itself from a centralized entity into a decentralized autonomous organization (DAO). More than six months in, we sat down with three of the visionaries that prompted this move to see if the reality matches their expectations for how the DAO structure could improve the organization, the platform’s user experience, and the community that builds it. 
+ShapeShift는 중앙 집중식 엔티티에서 DAO(분권형 자율 조직)로 완전히 전환한 최초의 설립 기업입니다. 6개월 이상 지난 후, 우리는 DAO 구조를 통해 조직, 플랫폼의 사용자 환경 및 이를 구축하는 커뮤니티를 개선할 수 있는 방법에 대한 그들의 기대와 현실이 일치하는지 알아보기 위해 이러한 움직임을 촉발한 세 명의 비전가들과 이야기를 나누었습니다.
 
-Our series begins with Willy Ogorzaly, or “Willy Fox,” former principal product manager of centralized ShapeShift and current head of decentralization for the FOX Foundation (responsible in part for ensuring a smooth and successful transition to a DAO). 
+이 시리즈는 중앙 집중식 ShapeShift의 주요 제품 매니저이자 현재 FOX Foundation의 지방분권 책임자인 Willy Ogorzaly(윌리 폭스)로 시작합니다(DAO로의 원활하고 성공적인 전환을 보장하는 역할도 일부 담당함).
 
 **Q: Few individuals were more excited for ShapeShift to transition into a DAO than you, who are famously known for your phrase, “This is the best day ever." Tell us why you were so excited.**
 
