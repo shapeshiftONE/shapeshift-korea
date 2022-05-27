@@ -1,42 +1,42 @@
 # FOXChain: ShapeShift, Coinbase Cloud와 파트너십 체결
 
-ShapeShift DAO is officially beginning to work on FOXChain with the collaborative support of Coinbase Cloud. FOXChain will be a data availability network using Tendermint consensus with the goal of hosting blockchain data in a decentralized manner. This partnership originated from a proposal by Coinbase Cloud offering expertise in designing, building, and ecosystem development when launching FOXChain. Successfully launching networks can be a difficult task and is made easier by collaborating with reliable partners ─ such as Coinbase Cloud.
+ShapeShift DAO는 Coinbase Cloud의 공동 지원으로 FOXChain에 대한 작업을 공식적으로 시작하고 있습니다. FOXChain은 블록체인 데이터를 분산형 방식으로 호스팅하는 것을 목표로 Tendermint 컨센서스를 활용한 데이터 가용성 네트워크가 될 것입니다. 이 파트너십은 FOXChain을 출시할 때 설계, 구축 및 생태계 개발에 대한 전문 지식을 제공하는 Coinbase Cloud의 제안에서 비롯되었습니다. 네트워크를 성공적으로 시작하는 것은 어려운 작업이 될 수 있으며, Coinbase Cloud와 같은 신뢰할 수 있는 파트너와 협력함으로써 더욱 쉬워집니다.
 
-With technological and regulatory advancements accelerating the pace of institutional adoption of crypto, the increasing prevalence of proof-of-stake based blockchains — which are now powering a combined market cap of over $200 billion in assets — presents a novel opportunity for institutions and DAOs alike to grow and expand value-added services to their customers such as FOXChain.
+기술 및 규제의 발전으로 기관의 암호화 채택 속도가 빨라짐에 따라 현재 총 자산 시가 총액이 2,000억 달러 이상인 지분 증명 기반 블록체인의 보급 증가는 기관과 DAO 모두에게 새로운 기회를 제공합니다. FOXChain과 같은 고객에게 부가 가치 서비스를 성장 및 확장합니다.
 
-**What is FOXChain?**
+**FOXChain 무엇인가요?**
 
-FOXChain will be a Cosmos SDK-based blockchain data availability network using Tendermint consensus with the objective of completely decentralizing blockchain data. It is a purpose-built blockchain designed to store metadata for every blockchain supported by ShapeShift. Borrowing many established mechanisms from THORChain's architecture, some of the most significant benefits of FOXChain are the incentives offered to anyone hosting blockchain data. Decentralizing blockchain data is vital to enable ShapeShift's mission to become completely decentralized, i.e., ShapeShift's UI will be supported entirely via FOXChain as a back-end.
+FOXChain은 블록체인 데이터를 완전히 탈중앙화하는 것을 목표로 텐더민트 합의를 사용하는 코스모스 SDK 기반 블록체인 데이터 가용성 네트워크가 될 것입니다. ShapeShift가 지원하는 모든 블록체인에 대한 메타데이터를 저장하도록 설계된 특수 목적 블록체인입니다. THORChain의 아키텍처에서 확립된 많은 메커니즘을 차용하여 FOXChain의 가장 중요한 이점 중 일부는 블록체인 데이터를 호스팅하는 모든 사람에게 제공되는 인센티브입니다. 블록체인 데이터의 분산은 ShapeShift의 미션이 완전히 분산되도록 하는 데 필수적입니다. 즉, ShapeShift의 UI는 백엔드로 FOXChain을 통해 완전히 지원됩니다.
 
-Although the FOX Token was first launched on Ethereum, ShapeShift sees a future where FOX Tokens can float freely between chains without having a concept of "nativity." For example, if you want access to Uniswap, you will move your FOX to Ethereum mainnet, and if you wish to access native ShapeShift staking, you will move your FOX to FOXChain. There will be no cost for anyone to use the FOXChain network.
+FOX 토큰이 이더리움에서 처음 출시되었지만 ShapeShift는 FOX 토큰이 "탄생"이라는 개념 없이 체인 간에 자유롭게 떠다닐 수 있는 미래를 보고 있습니다. 예를 들어 Uniswap에 액세스하려면 FOX를 Ethereum 메인넷으로 이동하고 기본 ShapeShift 스테이킹에 액세스하려면 FOX를 FOXChain으로 이동합니다. 누구나 FOXChain 네트워크를 사용하는 데 비용이 들지 않습니다.
 
-FOXChain will incentivize operators to run blockchain nodes and manage the Unchained abstraction layer. ShapeShift would no longer be the centralized host of its data; instead it will allow anyone to host pieces of blockchain data and contribute to a decentralized system. Operators running blockchain nodes will list them in FOXChain to earn passive income, and users can find and connect to them via FOXChain. In addition, any user will have the option to delegate their FOX Tokens to validators running these blockchain nodes that they believe are best serving the community and ecosystem. When launched, FOXChain plans to have Query and Transact available for users, supporting 25+ protocols to build and scale cross-chain applications seamlessly. A Coinbase Cloud branded validator will be available to the community in addition to white-label validators that can run independently to participate in the network - learn more about FOXChain here.
+FOXChain은 블록체인 노드를 실행하고 Unchained 추상화 계층을 관리하도록 운영자에게 인센티브를 제공합니다. ShapeShift는 더 이상 데이터의 중앙 집중식 호스트가 아닙니다. 대신 누구나 블록체인 데이터를 호스팅하고 분산 시스템에 기여할 수 있습니다. 블록체인 노드를 실행하는 운영자는 이를 FOXChain에 나열하여 수동 소득을 얻을 수 있으며 사용자는 FOXChain을 통해 노드를 찾고 연결할 수 있습니다. 또한 모든 사용자는 FOX 토큰을 커뮤니티와 생태계에 가장 도움이 된다고 생각하는 블록체인 노드를 실행하는 검증자에게 위임할 수 있습니다. FOXChain은 출시되면 사용자가 Query 및 Transact를 사용할 수 있도록 하여 25개 이상의 프로토콜을 지원하여 크로스체인 애플리케이션을 원활하게 구축하고 확장할 계획입니다. 네트워크에 참여하기 위해 독립적으로 실행할 수 있는 화이트 라벨 유효성 검사기 외에도 Coinbase Cloud 브랜드 유효성 검사기를 커뮤니티에서 사용할 수 있습니다. 여기에서 FOXChain에 대해 자세히 알아보세요.
 
-**Benefits of FOXChain**
+**FOXChain의 장점**
 
-The most significant benefit of FOXChain is that it will allow for incentivized, decentralized, indexed node data. Almost all interfaces connect to some form of centralized node data which means there is a robust global use case for FOXChain. Decentralizing node data that powers these different interfaces is crucial if we ever want any truly decentralized interface. The interface users see when using ShapeShift will be fully decentralized 一 nobody can shut it down or regulate it because there is no centralized service that has the power to do so. The resiliency and independence of FOXChain is arguably the most significant benefit to the average user.
+FOXChain의 가장 중요한 이점은 인센티브화, 분산화, 인덱싱된 노드 데이터를 허용한다는 것입니다. 거의 모든 인터페이스는 FOXChain에 대한 강력한 글로벌 사용 사례가 있음을 의미하는 일부 형태의 중앙 집중식 노드 데이터에 연결됩니다. 진정으로 탈중앙화된 인터페이스를 원한다면 이러한 다양한 인터페이스를 지원하는 노드 데이터를 탈중앙화하는 것이 중요합니다. ShapeShift를 사용할 때 사용자가 보는 인터페이스는 완전히 분산될 것입니다. 그렇게 할 수 있는 중앙 집중식 서비스가 없기 때문에 아무도 그것을 종료하거나 규제할 수 없습니다. FOXChain의 탄력성과 독립성은 틀림없이 일반 사용자에게 가장 중요한 이점입니다.
 
-The secondary benefit is that users can help secure and validate the network and support nodes by staking their FOX Tokens through validators while earning FOX rewards. The network will be decentralized and not dependent on any particular nodes, which means a centralized entity is not stopped from running a singular or even multiple nodes. However, anyone can replace them at any time, and therefore, FOXChain is not dependent on any centralized entity.
+두 번째 이점은 사용자가 FOX 보상을 받는 동안 검증자를 통해 FOX 토큰을 스테이킹하여 네트워크 및 지원 노드를 보호하고 검증하는 데 도움이 될 수 있다는 것입니다. 네트워크는 분산되고 특정 노드에 종속되지 않습니다. 즉, 중앙 집중식 엔티티가 단일 또는 여러 노드를 실행하는 것을 중단하지 않습니다. 그러나 누구나 언제든지 이를 대체할 수 있으므로 FOXChain은 중앙 집중식 기관에 의존하지 않습니다.
 
-**What is Coinbase Cloud?**
+**코인베이스 클라우드란 무엇인가요?**
 
-Coinbase Cloud is the Coinbase software arm formed after the Coinbase acquisition of Bison trails in early 2021. Like you would think of the relationship between AWS and Amazon, the same idea extends to Coinbase Cloud and Coinbase. Coinbase Cloud provides non-native companies and entities with the tools to participate in proof-of-stake blockchains easily. They are an enterprise-grade infrastructure platform as a service provider to the space's top custodians, exchanges, and providers. They offer multi-cloud, multi-region, and redundant blockchain infrastructure for read/write and participation nodes across various protocols. Whether a crypto app or a staking-as-a-service business, builders can get started quickly with the APIs and infrastructure that power Coinbase — read more about Coinbase Cloud here.
+코인베이스 클라우드는 2021년 초 코인베이스가 바이슨 트레일을 인수한 후 형성된 코인베이스 소프트웨어 부문입니다. AWS와 Amazon의 관계를 생각할 수 있듯이 동일한 아이디어가 코인베이스 클라우드와 코인베이스로 확장됩니다. 코인베이스 클라우드는 지분 증명 블록체인에 쉽게 참여할 수 있는 도구를 비원시 기업 및 단체에 제공합니다. 그들은 공간의 최고 관리인, 교환 및 제공자에게 서비스 제공자로서 엔터프라이즈급 인프라 플랫폼입니다. 다양한 프로토콜에서 읽기/쓰기 및 참여 노드를 위한 다중 클라우드, 다중 지역 및 중복 블록체인 인프라를 제공합니다. 암호화 앱이든 서비스형 스테이킹(staking-as-a-service) 사업이든 빌더는 Coinbase를 지원하는 API와 인프라를 빠르게 시작할 수 있습니다. 여기에서 Coinbase Cloud에 대해 자세히 읽어보세요.
 
-**ShapeShift's Partnership with Coinbase Cloud**
+**ShapeShift와 Coinbase Cloud의 파트너십**
 
-Having supported many successful projects and protocols such as Evmos, Solana, Eth2, and more, Coinbase Cloud brings deep expertise in blockchain infrastructure. During this partnership to develop FOXChain, Coinbase Cloud will provide technical design and operational support in addition to assistance with testnet and mainnet rollout, amongst many other items outlined in the proposal.
+Evmos, Solana, Eth2 등과 같은 많은 성공적인 프로젝트와 프로토콜을 지원한 Coinbase Cloud는 블록체인 인프라에 대한 깊은 전문 지식을 제공합니다. FOXChain을 개발하기 위한 이 파트너십 동안 Coinbase Cloud는 제안서에 설명된 다른 많은 항목 중에서 테스트넷 및 메인넷 출시에 대한 지원 외에도 기술 설계 및 운영 지원을 제공할 것입니다.
 
-To broadly summarize the proposal, Coinbase Cloud would provide technical and protocol expertise to help establish the highest quality infrastructure operations, which would include:
+제안을 광범위하게 요약하기 위해 Coinbase Cloud는 다음을 포함하여 최고 품질의 인프라 운영을 구축하는 데 도움이 되는 기술 및 프로토콜 전문 지식을 제공할 것입니다.
 
-- Node architecture design, key management, testnet/mainnet rollout.
-- Protocol design, support on token economics, governance design, penalty, and slashing parameters.
-- A comprehensive cross-functional team to enable best practices in design, build, ecosystem development, GTM, and overall positioning.
-- Running a validator on FOXChain.
-- Build and maintain white-label nodes.
-- Focus on maintaining chain uptime and infrastructure.
+- 노드 아키텍처 설계, 키 관리, 테스트넷/메인넷 롤아웃.
+- 프로토콜 설계, 토큰 경제에 대한 지원, 거버넌스 설계, 패널티 및 매개변수 축소.
+- 설계, 구축, 생태계 개발, GTM 및 전반적인 포지셔닝에서 모범 사례를 가능하게 하는 포괄적인 교차 기능 팀.
+- FOXChain에서 유효성 검사기를 실행합니다.
+- 화이트 라벨 노드를 구축하고 유지합니다.
+- 체인 가동 시간 및 인프라 유지 관리에 중점을 둡니다.
 
-Coinbase Cloud is a perfect partner to help build the future of web3 with secure and reliable blockchain infrastructure.
+Coinbase Cloud는 안전하고 신뢰할 수 있는 블록체인 인프라로 web3의 미래를 구축하는 데 도움이 되는 완벽한 파트너입니다.
 
-**True Decentralization**
+**진정한 탈중앙화**
 
-Through the revolutionary FOXChain architecture, ShapeShift will provide incentivized full nodes for any market participant. The creation of FOXChain marks a big step forward in the evolution of true decentralization across Web3 platforms and protocols alike. By decentralizing our back-end, we will solve a problem that most of the Web3 industry faces: reliance on centralized infrastructure. The passing of this proposal marks the first successful on-chain governance between a centralized Web3 entity ー Coinbase Cloud ー and a decentralized entity ー ShapeShift DAO. The partnership with ShapeShift and Coinbase Cloud is a big step toward building trust and collaboration between DAOs and centralized companies.
+혁신적인 FOXChain 아키텍처를 통해 ShapeShift는 모든 시장 참가자에게 인센티브를 제공하는 풀 노드를 제공합니다. FOXChain의 생성은 Web3 플랫폼과 프로토콜 모두에서 진정한 탈중앙화의 발전에 있어 큰 진전을 의미합니다. 백엔드를 분산함으로써 대부분의 Web3 산업이 직면한 문제인 중앙 집중식 인프라에 대한 의존을 해결할 것입니다. 이 제안의 통과는 중앙 Web3 엔티티(Coinbase Cloud)와 분산 엔티티(ShapeShift DAO) 간의 최초의 성공적인 온체인 거버넌스를 표시합니다. ShapeShift 및 Coinbase Cloud와의 파트너십은 DAO와 중앙 집중식 회사 간의 신뢰와 협업을 구축하기 위한 큰 단계입니다.
