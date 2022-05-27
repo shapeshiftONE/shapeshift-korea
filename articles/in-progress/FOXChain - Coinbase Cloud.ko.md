@@ -1,4 +1,4 @@
-# FOXChain: ShapeShift Partners with Coinbase Cloud
+# FOXChain: ShapeShift, Coinbase Cloud와 파트너십 체결
 
 ShapeShift DAO is officially beginning to work on FOXChain with the collaborative support of Coinbase Cloud. FOXChain will be a data availability network using Tendermint consensus with the goal of hosting blockchain data in a decentralized manner. This partnership originated from a proposal by Coinbase Cloud offering expertise in designing, building, and ecosystem development when launching FOXChain. Successfully launching networks can be a difficult task and is made easier by collaborating with reliable partners ─ such as Coinbase Cloud.
 
