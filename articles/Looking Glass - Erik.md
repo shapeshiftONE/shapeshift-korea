@@ -1,0 +1,57 @@
+# Through the Looking Glass Clearly: Erik Voorhees
+
+ShapeShift Visionaries Reflect on the DAO After Six Months
+
+### Part Three of a Three-Part Series
+
+ShapeShift was the first established corporation to fully transform itself from a centralized entity into a decentralized autonomous organization (DAO). More than six months in, we sat down with three of the visionaries that prompted this move to see if the reality matches their expectations for how the DAO structure could improve the organization, the platform’s user experience, and the community that builds it. 
+
+Our final interview of the series is with Erik Voorhees, ShapeShift’s founder and former CEO. 
+
+**Q: What were the main catalysts behind the transformation of ShapeShift?**
+
+A: The serious discussions to transition into a DAO began in December 2020; they continued through the next few months with other leaders in the company such as Willy Ogorzaly and Michael Perklin, then with the Executive Team. We communicated it to the whole company in May, and announced it publicly in July 2021. 
+
+The decision had three main rationales: one was ideological, one was strategic, and one was tactical. The ideological one was that the ethos of crypto is decentralization, immutability, openness, and borderlessness — and, a centralized company is at odds with all of those things. This ethos is what initially attracted me to Bitcoin in May of 2011. In its incorporated state, ShapeShift was out of step with the industry's culture; decentralization enabled that culture to be embraced once again into the heart of ShapeShift. 
+
+The second reason was strategic: we saw how fast and innovative these open protocols were. We felt that they were moving faster than we ever could. They had fewer gatekeepers and much more flexibility and dynamism. Strategically, we thought that this was the best way for ShapeShift to thrive in this environment long term even though short-term such a transition would be very disruptive to our own roadmap. 
+
+Finally, tactically, it was very much about the regulatory environment. When our adversary imposes unethical restrictions on us, the product becomes worse for users, less safe, and less efficient. We can't go head-to-head with them because they have infinite money and power. So we decided to change the rules of the game by decentralizing ourselves. This doesn't make ShapeShift immune to regulation, but it does completely upend the entire apparatus of how financial regulation works and applies to a centralized corporation vs. a DAO. We have to follow the laws which apply to us, but the insight was to change which rules apply to us… and even to change what “us” means. 
+
+**Q: By decentralizing the company, your role of eight years as the CEO no longer exists. How do you feel about that?**
+
+A: Well, I am definitely not leading things at this point. I am not steering the ShapeShift DAO as the CEO, which is evident to people. It is nice to have a change of pace after a tremendously difficult and stressful eight years. Separation and closure from that stress, having time to focus on the parts of life that were neglected for a long time, have been refreshing. It has also been inspiring to see that, even though I am not leading it, other people are stepping into various roles and leading multiple things without central oversight or command. I can simply contribute in big or small ways, whenever and however I wish, and this can change daily or weekly. 
+
+This is a magical point about DAOs generally; every participant can choose to do whatever they want. Nobody has to become consumed by work, though they can if they wish. Consider the eternal debate within corporate HR departments about maternity leave. How much is appropriate? What should be paid? In the DAO structure, if a woman has a baby, she doesn't have to worry about asking anyone’s permission for time off. There is dynamism in the ability to enter and exit one’s participation level easily.
+
+Someone can work for six months straight and then go live in France for a month without asking permission from anyone, and then they can return and choose to contribute again or not, at the same level or different. That flexibility is fantastic, and I am just starting to really appreciate it. Because, into 2018, work was not as fun for me. All hell broke loose on the back of the regulatory coercion we faced, and we struggled for years. Also, getting back to a place where we are just having fun again is great; I love that. I feel good about taking the pressure off Jon, our former COO and CPO, who was there with me through those tough times. He is really thriving in this DAO environment; he is super active and is doing a great job of being a leader but not the leader. We are both having a lot more fun. 
+
+In terms of dissolution of the actual entity, we dismantled it and distributed its assets to shareholders who all received a decent return on their investment, plus a pile of FOX Tokens for future upside in the DAO. We gave control of the product and brand to the community; of course, and we are still a part of that community. ShapeShift is now fully open-source.  
+
+I am most excited to see that this is actually working in practice. We have a strong community made up of people from centralized ShapeShift, totally new people from all over the world, and some previous customers from years ago, and all of these people have come together without any central leader to organize around various initiatives. This is the healthiest sign I could have hoped for. I knew it could work potentially, but seeing it work in reality is awesome. We’ll need a few years to see if it’s a true success, but so far, so good.
+
+**Q: Can A DAO be regulated?**
+
+A: The answer to that is currently a big question mark: regulations have to apply to an entity, a corporation, or an individual; a DAO isn't any of those. It is just a name we call a group of individuals that are communicating and building together. Regulators can go after individuals in the DAO, but only if those individuals do something illegal. So, each individual can choose their actions based on their risk tolerance and on their jurisdiction. The majority of financial regulatory law applies to corporate entities, and it is not clear how and to what degree that translates to individuals, nor what actions those individuals would have to take to fall under such jurisdiction. I think it would be foolish to assume that governments will not try to regulate DAOs (they try to regulate everything). Still, they are so far behind the curve; they barely understand Bitcoin and Ethereum. All we need is time to build, and this is what we have gained.
+
+**Q: Legal review and the realities of those constraints have been a theme throughout these discussions. What is your perspective?**
+
+A: Great ideas die all the time in legal review, not necessarily because they’re illegal, but because it’s unclear how they’ll be treated today, or tomorrow. So many creative concepts within ShapeShift ended up stalled because we weren’t sure how it would be treated legally. It was just depressing to have ideas that we wanted to experiment with and that we were excited about and unable to even try. Often, you don't know if an idea is as good as you think it is until you try it, and many great ideas did die before we could explore them. Anti-innovation, anti-capitalist, and anti-human flourishing. At the same time, we saw all these DeFi projects blowing up (in a good way); they were very fast, very innovative, and trying new things all the time. It felt profoundly unjust that we were stuck in this arrangement that constricted us to such a degree, so we transformed our arrangement.
+
+**Q: Not all aspects of DAOs are positive. Conflict resolution remains one of the challenges experienced in different ways by many DAOs. What are your perspectives on this?**
+
+A: Those conflicts seem to work themselves out. In a DAO, if someone is being annoying, you can mute them in Discord, so no one has to listen to you if you are being obnoxious. Second, no one is actually hired or fired. People work for periods of time that work for them at that time; if someone has a bad experience, they can just leave. 
+
+Individuals can resolve conflicts by opting in and out instead of being forced into a HR formalized process. There is truth in the voting process that is very objective and pure. The voting process allows for things to be very clearly supported or not, and then we move on. That as a governance method is unexplored and very different from the corporate setting. I don't want to pretend that DAOs solve all interpersonal conflicts; obviously, they do not. There have been conflicts within the ShapeShift DAO. There will be more. I am sure some of them will get super controversial in the future, as humans disagree about things. DAOs do not solve that problem, but they allow new ways of working it out or making it easier to move past the issue.
+
+**Q: We just experienced the insanity that was ETHDenver and the energy and amazing vibe that was so infectious for all of us. Where do you see the crypto world and the ShapeShift DAO going?**
+
+A: Since the beginning of Bitcoin, it has been the dream that crypto takes over how all finance works in this world. It is a very long and arduous road, but I think it's working. The market is not amidst a crazy mania such as we saw in 2017 or even briefly last year, and yet we still have this enthusiasm and people with serious creative energy just being excited about what they are building. This is across the entire crypto industry. That is a great sign. Whenever the next bull run comes, it happens on the backs of the work and the enthusiasm and the energy that occurred in the months and years before it.
+
+**Q: One of the many women we saw speaking and on panels said that the energy around ETHDenver is "unignorable."**
+
+A: Yes, banks and financial institutions can certainly not ignore it anymore, as much as they have tried for years. People that understand the crypto industry the best see that this is an entirely transformative set of technologies, and it doesn't stop.
+
+ShapeShift has only started on this transformation to our new open-source product and community-ownership model. The community is real but can always be more robust, bigger, better. The DAO has already become self-sustainable, earning revenues roughly equating to costs, and the treasury is over $80 million. The DAO needs to really focus on the product and increase usage and adoption of the product itself, which is its mission. Next is for the community to align around rapid and quality development of the product. I continue to feel that we are moving too slowly with product rollout, but I felt that way with centralized ShapeShift, which has not changed or worsened. The energy needs to continue towards improving the product and communicating its utility out into a noisy industry to gain users. Fundamentally, predictable feature rollouts, adoption, and addressing user feedback will allow the DAO to continue to thrive. We have some fascinating long-term construction in the early stages and are pioneering some truly innovative partnerships with other DAOs, yet another dynamic that never really happened as a centralized entity.  
+
+For those looking to get involved in the ShapeShift DAO, join our Discord and start participating!
